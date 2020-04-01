@@ -16,7 +16,7 @@ Default class docstrings corresponds to a [Google Style](http://google.github.io
 
 **Installation**  
 ```sh
-cookiecutter https://github.com/deverte/cookiecutters-shell/blob/master/zip/class-py.zip
+cookiecutter https://github.com/deverte/cookiecutters-shell/raw/master/zip/class-py.zip
 ```
 
 **Usage**  

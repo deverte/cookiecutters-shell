@@ -16,7 +16,7 @@ Some useful [Cookiecutter](https://cookiecutter.readthedocs.io/en/1.7.0/) templa
 ### [class-py](/class-py)
 Creates `Python` class in the **current** directory.
 ```
-cookiecutter https://github.com/deverte/cookiecutters-shell/blob/master/zip/class-py.zip
+cookiecutter https://github.com/deverte/cookiecutters-shell/raw/master/zip/class-py.zip
 ```
 
 
