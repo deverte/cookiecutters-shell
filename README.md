@@ -55,6 +55,12 @@ Creates [Dash](https://dash.plotly.com/) app skeleton (with dependencies) that t
 cc shell:poetry-dash-app-simple
 ```
 
+#### [poetry-dash-app-data](/cookiecutters/poetry-dash-app-data)
+Creates [Dash](https://dash.plotly.com/) app skeleton (with dependencies) that tries to follow [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)-like design pattern (if we talk about the file structure). Also this template demonstrates initializing the `Dash` app by some initial data.
+```sh
+cc shell:poetry-dash-app-data
+```
+
 ### Click
 #### [poetry-click-app](/cookiecutters/poetry-click-app)
 Creates [Click](https://palletsprojects.com/p/click/) app skeleton with dependencies.
