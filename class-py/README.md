@@ -70,4 +70,4 @@ e-mail: [deverte@ya.ru](mailto:deverte@ya.ru)
 
 
 ## License
-MIT
+[MIT](/LICENSE)
