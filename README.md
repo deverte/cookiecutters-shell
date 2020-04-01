@@ -4,6 +4,9 @@
 2. [Cookiecutters](#Cookiecutters)
     1. [class-py](#class-py)
 3. [Documentation](#Documentation)
+    1. [Cookiecutter](#Cookiecutter)
+    2. [Downloading](#Downloading)
+    3. [Usage](#Usage)
 3. [Author](#Author)
 4. [License](#License)
 
@@ -17,8 +20,8 @@ Before using, please **read** [Documentation](#Documentation) first.
 
 ## Cookiecutters
 See [Documentation](#Documentation).
-> cc = cookiecutter
-> shell = https://github.com/deverte/cookiecutters-shell/raw/master/zip/{0}.zip
+> cc = cookiecutter  
+> shell = https://github.com/deverte/cookiecutters-shell/raw/master/zip/{0}.zip  
 > z = /path/to/cookiecutters_dir/{0}.zip
 
 ### [class-py](/class-py)

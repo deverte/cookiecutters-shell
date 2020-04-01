@@ -15,8 +15,8 @@ Creates `Python` class in the **current** directory.
 Default class docstrings corresponds to a [Google Style](http://google.github.io/styleguide/pyguide.html#38-comments-and-docstrings) styleguide (because this style is well suited to modular programs).
 
 See [Documentation](../#Documentation).
-> cc = cookiecutter
-> shell = https://github.com/deverte/cookiecutters-shell/raw/master/zip/{0}.zip
+> cc = cookiecutter  
+> shell = https://github.com/deverte/cookiecutters-shell/raw/master/zip/{0}.zip  
 > z = /path/to/cookiecutters_dir/{0}.zip
 
 **Installation**  
