@@ -4,9 +4,9 @@
 2. [Cookiecutters](#Cookiecutters)
     1. [class-py](#class-py)
 3. [Documentation](#Documentation)
-    1. [Cookiecutter](#Cookiecutter)
-    2. [Downloading](#Downloading)
-    3. [Usage](#Usage)
+    1. [Cookiecutter](#Cookiecutter-optional)
+    2. [Downloading](#Downloading-optional)
+    3. [Usage](#Usage-recommended)
 3. [Author](#Author)
 4. [License](#License)
 
