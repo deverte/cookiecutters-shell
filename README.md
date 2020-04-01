@@ -33,6 +33,12 @@ Creates `Python` class in the **current** directory.
 cc shell:class-py
 ```
 
+### [dash-app](/cookiecutters/dash-app)
+Creates simple [Dash](https://dash.plotly.com/) app skeleton (without any dependencies) that tries to follow [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)-like design pattern (if we talk about the file structure).
+```sh
+cc shell:dash-app
+```
+
 
 ---
 
