@@ -49,6 +49,12 @@ Creates `Dash` widget for the [Dash](https://dash.plotly.com/) app that follows 
 cc shell:dash-widget
 ```
 
+#### [poetry-dash-app-simple](/cookiecutters/poetry-dash-app-simple)
+Creates [Dash](https://dash.plotly.com/) app skeleton (with dependencies) that tries to follow [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)-like design pattern (if we talk about the file structure).
+```sh
+cc shell:poetry-dash-app-simple
+```
+
 ### Click
 #### [poetry-click-app](/cookiecutters/poetry-click-app)
 Creates [Click](https://palletsprojects.com/p/click/) app skeleton with dependencies.
