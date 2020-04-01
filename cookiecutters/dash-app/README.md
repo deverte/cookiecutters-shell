@@ -45,10 +45,10 @@ Format:
 ## Documentation
 ### Requirements
 #### Apps
-[Python](https://www.python.org/)  
-[Cookiecutter](https://github.com/cookiecutter/cookiecutter)  
-[Poetry](https://python-poetry.org/) (optional)  
-[Conda](https://www.anaconda.com/distribution/) (optional)
+- [Python](https://www.python.org/)
+- [Cookiecutter](https://github.com/cookiecutter/cookiecutter)
+- [Poetry](https://python-poetry.org/) (optional)
+- [Conda](https://www.anaconda.com/distribution/) (optional)
 
 #### Python packages
 - [Dash](https://dash.plotly.com/)

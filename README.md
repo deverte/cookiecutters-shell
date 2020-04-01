@@ -4,6 +4,7 @@
 2. [Cookiecutters](#Cookiecutters)
     1. [class-py](#class-py)
     2. [dash-app](#dash-app)
+    3. [dash-widget](#dash-widget)
 3. [Documentation](#Documentation)
     1. [Cookiecutter](#Cookiecutter-optional)
     2. [Downloading](#Downloading-optional)
@@ -28,16 +29,24 @@ Before using, please **read** [Documentation](#Documentation) first.
 > shell = https://github.com/deverte/cookiecutters-shell/raw/master/zip/{0}.zip  
 > z = /path/to/cookiecutters_dir/{0}.zip
 
-### [class-py](/cookiecutters/class-py)
+### Python
+#### [class-py](/cookiecutters/class-py)
 Creates `Python` class in the **current** directory.
 ```sh
 cc shell:class-py
 ```
 
-### [dash-app](/cookiecutters/dash-app)
+### Dash
+#### [dash-app](/cookiecutters/dash-app)
 Creates simple [Dash](https://dash.plotly.com/) app skeleton (without any dependencies) that tries to follow [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)-like design pattern (if we talk about the file structure).
 ```sh
 cc shell:dash-app
+```
+
+#### [dash-widget](/cookiecutters/dash-widget)
+Creates `Dash` widget for the [Dash](https://dash.plotly.com/) app that follows [dash-app](/cookiecutters/dash-app) `Cookiecutter` structure.
+```sh
+cc shell:dash-widget
 ```
 
 
