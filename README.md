@@ -18,8 +18,11 @@ Some useful [Cookiecutter](https://cookiecutter.readthedocs.io/en/1.7.0/) templa
 
 Before using, please **read** [Documentation](#Documentation) first.
 
+
+---
+
+
 ## Cookiecutters
-See [Documentation](#Documentation).
 > cc = cookiecutter  
 > shell = https://github.com/deverte/cookiecutters-shell/raw/master/zip/{0}.zip  
 > z = /path/to/cookiecutters_dir/{0}.zip
