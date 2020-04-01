@@ -3,6 +3,7 @@
 1. [About](#About)
 2. [Cookiecutters](#Cookiecutters)
     1. [class-py](#class-py)
+    2. [dash-app](#dash-app)
 3. [Documentation](#Documentation)
     1. [Cookiecutter](#Cookiecutter-optional)
     2. [Downloading](#Downloading-optional)
