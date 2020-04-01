@@ -3,8 +3,10 @@
 !LICENSE
 !README.md
 
+!zip
+!/cookiecutters
+/cookiecutters/*
+
 !archivate.ps1
 
-!zip
-
-!class-py
+!/cookiecutters/class-py

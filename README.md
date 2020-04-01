@@ -27,7 +27,7 @@ Before using, please **read** [Documentation](#Documentation) first.
 > shell = https://github.com/deverte/cookiecutters-shell/raw/master/zip/{0}.zip  
 > z = /path/to/cookiecutters_dir/{0}.zip
 
-### [class-py](/class-py)
+### [class-py](/cookiecutters/class-py)
 Creates `Python` class in the **current** directory.
 ```sh
 cc shell:class-py

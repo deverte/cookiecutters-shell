@@ -1,1 +1,1 @@
-7z a zip/class-py.zip class-py
+7z a zip/class-py.zip cookiecutters/class-py
