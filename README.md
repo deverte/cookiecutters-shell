@@ -2,9 +2,9 @@
 
 1. [About](#About)
 2. [Cookiecutters](#Cookiecutters)
-    1. [class-py](#class-py)
-    2. [dash-app](#dash-app)
-    3. [dash-widget](#dash-widget)
+    1. [Python](#Python)
+    2. [Dash](#Dash)
+    3. [Click](#Click)
 3. [Documentation](#Documentation)
     1. [Cookiecutter](#Cookiecutter-optional)
     2. [Downloading](#Downloading-optional)
@@ -47,6 +47,13 @@ cc shell:dash-app
 Creates `Dash` widget for the [Dash](https://dash.plotly.com/) app that follows [dash-app](/cookiecutters/dash-app) `Cookiecutter` structure.
 ```sh
 cc shell:dash-widget
+```
+
+### Click
+#### [poetry-click-app](/cookiecutters/poetry-click-app)
+Creates [Click](https://palletsprojects.com/p/click/) app skeleton with dependencies.
+```sh
+cc shell:poetry-click-app
 ```
 
 
