@@ -73,15 +73,13 @@ Some useful links:
 - [lesscpy](https://github.com/lesscpy/lesscpy)
 - [Box](https://github.com/cdgriffith/Box)
 - [pydash](https://pydash.readthedocs.io/en/latest/)
+- [Poetry - Local configuration](https://python-poetry.org/docs/configuration/#local-configuration)
 
 ### Dash app structure
 This `Cookiecutter` template provides the following `Dash` app structure.
 
 **.gitignore**  
 Pre-defined files that will be ignored by git.
-
-**poetry.toml**  
-File with `Poetry` settings. Contains the setting that makes virtual environment inside project directory. See [Poetry - Local configuration](https://python-poetry.org/docs/configuration/#local-configuration).
 
 **pyproject.toml**  
 The main file with project's description (dependencies, commands, build instructions, etc.). See [Poetry - pyproject.toml](https://python-poetry.org/docs/pyproject/).

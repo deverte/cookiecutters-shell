@@ -68,15 +68,13 @@ Some useful links:
 - [Click](https://palletsprojects.com/p/click/)  
 - [argparse](https://docs.python.org/3/library/argparse.html)
 - [PyInstaller](https://www.pyinstaller.org/)
+- [Poetry - Local configuration](https://python-poetry.org/docs/configuration/#local-configuration)
 
 ### Click app structure
 This `Cookiecutter` template provides the following `Click` app structure.
 
 **.gitignore**  
 Pre-defined files that will be ignored by git.
-
-**poetry.toml**  
-File with `Poetry` settings. Contains the setting that makes virtual environment inside project directory. See [Poetry - Local configuration](https://python-poetry.org/docs/configuration/#local-configuration).
 
 **pyproject.toml**  
 The main file with project's description (dependencies, commands, build instructions, etc.). See [Poetry - pyproject.toml](https://python-poetry.org/docs/pyproject/).
