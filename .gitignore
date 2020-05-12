@@ -15,3 +15,4 @@
 !/cookiecutters/poetry-click-app
 !/cookiecutters/poetry-dash-app-simple
 !/cookiecutters/poetry-dash-app-data
+!/cookiecutters/pytorch-lstm-time-series

@@ -68,6 +68,13 @@ Creates [Click](https://palletsprojects.com/p/click/) app skeleton with dependen
 cc shell:poetry-click-app
 ```
 
+### PyTorch
+#### [pytorch-lstm-time-series](/cookiecutters/pytorch-lstm-time-series)
+Creates notebook with LSTM-based neural network for time series prediction with [PyTorch](https://pytorch.org/) machine learning framework.
+```sh
+cc shell:pytorch-lstm-time-series
+```
+
 
 ---
 
