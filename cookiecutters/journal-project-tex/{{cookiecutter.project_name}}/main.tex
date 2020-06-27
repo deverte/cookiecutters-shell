@@ -1,0 +1,72 @@
+\documentclass[12pt,a4paper]{article}
+
+% -----------------------------------------------------------------------------
+% MODULES
+% -----------------------------------------------------------------------------
+% Fonts
+% \usepackage[T2A]{fontenc}
+\usepackage[english,russian]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{fontspec}
+\usepackage{sectsty}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{indentfirst}
+% Math
+\usepackage{physics}
+\usepackage{amsmath}
+% Structure
+\usepackage{subfiles}
+\usepackage{hyperref}
+% Blocks (graphics, paragraphs, code listings, ...)
+\usepackage{graphicx}
+\usepackage{fancypar}
+\usepackage{minted}
+\usepackage{tcolorbox}
+
+% -----------------------------------------------------------------------------
+% SETTINGS
+% -----------------------------------------------------------------------------
+\definecolor{JournalText}{RGB}{29,29,29}
+\definecolor{JournalTitle}{RGB}{48,48,48}
+\definecolor{JournalLink}{RGB}{49,73,198}
+\definecolor{JournalRedBlock}{RGB}{249,109,119}
+\definecolor{JournalGreenBlock}{RGB}{229,255,229}
+\definecolor{JournalBlueBlock}{RGB}{90,144,214}
+\definecolor{JournalYellowBlock}{RGB}{255,247,215}
+\definecolor{JournalCodeBlock}{RGB}{40,42,54}
+
+\setmainfont{Cambria}
+\setsansfont{Segoe UI}
+\setmonofont{Consolas}
+\allsectionsfont{\sffamily \color{JournalTitle}}
+
+\hypersetup{
+    colorlinks=true,
+    linktoc=all,
+    linkcolor=JournalLink,
+    citecolor=black,
+    filecolor=black,
+    urlcolor=black
+}
+
+\setlength{\parskip}{1em}
+
+\usemintedstyle{monokai}
+
+
+% -----------------------------------------------------------------------------
+% DOCUMENT
+% -----------------------------------------------------------------------------
+\begin{document}
+    \fontsize{14}{14pt}
+    \selectfont
+    \color{JournalText}
+
+    % Structure
+    \subfile{sections/title.tex}
+    \subfile{sections/annotation.tex}
+    \tableofcontents \newpage
+    \subfile{sections/1.tex}
+    \subfile{sections/2.tex}
+    \subfile{sections/3.tex}
+\end{document}

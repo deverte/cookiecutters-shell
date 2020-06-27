@@ -1,16 +1,28 @@
 # cookiecutters-shell
 
-1. [About](#About)
-2. [Cookiecutters](#Cookiecutters)
-    1. [Python](#Python)
-    2. [Dash](#Dash)
-    3. [Click](#Click)
-3. [Documentation](#Documentation)
-    1. [Cookiecutter](#Cookiecutter-optional)
-    2. [Downloading](#Downloading-optional)
-    3. [Usage](#Usage-recommended)
-3. [Author](#Author)
-4. [License](#License)
+
+- [About](#about)
+- [Cookiecutters](#cookiecutters)
+  - [Python](#python)
+    - [class-py](#class-pycookiecuttersclass-py)
+  - [Dash](#dash)
+    - [dash-app](#dash-appcookiecuttersdash-app)
+    - [dash-widget](#dash-widgetcookiecuttersdash-widget)
+    - [poetry-dash-app-simple](#poetry-dash-app-simplecookiecutterspoetry-dash-app-simple)
+    - [poetry-dash-app-data](#poetry-dash-app-datacookiecutterspoetry-dash-app-data)
+  - [Click](#click)
+    - [poetry-click-app](#poetry-click-appcookiecutterspoetry-click-app)
+  - [PyTorch](#pytorch)
+    - [pytorch-lstm-time-series](#pytorch-lstm-time-seriescookiecutterspytorch-lstm-time-series)
+  - [LaTeX](#latex)
+    - [journal-project-tex](#journal-project-texcookiecuttersjournal-project-tex)
+- [Documentation](#documentation)
+  - [Cookiecutter (optional)](#cookiecutter-optional)
+  - [Downloading (optional)](#downloading-optional)
+  - [Usage (recommended)](#usage-recommended)
+- [Author](#author)
+- [License](#license)
+
 
 ---
 
@@ -73,6 +85,13 @@ cc shell:poetry-click-app
 Creates notebook with LSTM-based neural network for time series prediction with [PyTorch](https://pytorch.org/) machine learning framework.
 ```sh
 cc shell:pytorch-lstm-time-series
+```
+
+### LaTeX
+#### [journal-project-tex](/cookiecutters/journal-project-tex)
+Creates `LaTeX` project with `Journal` style by `deverte`.
+```sh
+cc shell:journal-project-tex
 ```
 
 
