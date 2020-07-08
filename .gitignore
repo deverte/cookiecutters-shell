@@ -12,8 +12,9 @@
 !/cookiecutters/class-py
 !/cookiecutters/dash-app
 !/cookiecutters/dash-widget
+!/cookiecutters/journal-project-tex
 !/cookiecutters/poetry-click-app
 !/cookiecutters/poetry-dash-app-simple
 !/cookiecutters/poetry-dash-app-data
+!/cookiecutters/poetry-orange-widget
 !/cookiecutters/pytorch-lstm-time-series
-!/cookiecutters/journal-project-tex

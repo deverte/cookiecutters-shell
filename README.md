@@ -12,6 +12,8 @@
     - [poetry-dash-app-data](#poetry-dash-app-datacookiecutterspoetry-dash-app-data)
   - [Click](#click)
     - [poetry-click-app](#poetry-click-appcookiecutterspoetry-click-app)
+  - [Orange](#orange)
+    - [poetry-orange-widget](#poetry-orange-widgetcookiecutterspoetry-orange-widget)
   - [PyTorch](#pytorch)
     - [pytorch-lstm-time-series](#pytorch-lstm-time-seriescookiecutterspytorch-lstm-time-series)
   - [LaTeX](#latex)
@@ -78,6 +80,13 @@ cc shell:poetry-dash-app-data
 Creates [Click](https://palletsprojects.com/p/click/) app skeleton with dependencies.
 ```sh
 cc shell:poetry-click-app
+```
+
+### Orange
+#### [poetry-orange-widget](/cookiecutters/poetry-orange-widget)
+[Orange](https://orange.biolab.si/) Widget (Add-on) template.
+```sh
+cc shell:poetry-orange-widget
 ```
 
 ### PyTorch
